@@ -1,0 +1,16 @@
+2024-11-14 21:35:36.865
+Attempt for 0 Bits. That was 0.000024 slower than Highscore.
+Attempt for 1 Bits. That was 0.000578 slower than Highscore.
+Attempt for 2 Bits. That was 0.000914 slower than Highscore.
+Attempt for 3 Bits. That was 0.002363 slower than Highscore.
+Attempt for 4 Bits. That was 0.005553 slower than Highscore.
+Attempt for 5 Bits. That was 0.001047 slower than Highscore.
+Attempt for 6 Bits. That was 0.002962 slower than Highscore.
+Attempt for 7 Bits. That was 0.000988 slower than Highscore.
+Attempt for 8 Bits. That was 0.002944 slower than Highscore.
+Attempt for 9 Bits. That was 0.001345 slower than Highscore.
+Attempt for 10 Bits. That was 0.001516 faster than Highscore. Highscore was overwritten.
+Attempt for 11 Bits. That was 0.000007 slower than Highscore.
+Attempt for 12 Bits. That was 0.016732 slower than Highscore.
+Attempt for 13 Bits. That was 0.083260 slower than Highscore.
+Attempt for 14 Bits. That was 0.201842 slower than Highscore.
